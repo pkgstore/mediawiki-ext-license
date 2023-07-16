@@ -1,0 +1,11 @@
+id: 'custom'
+title: 'Custom license'
+icon: 'fas fa-user-shield'
+category: ''
+content: 'custom-content'
+status: ''
+url: ''
+rule:
+  permission: []
+  condition: []
+  limitation: []

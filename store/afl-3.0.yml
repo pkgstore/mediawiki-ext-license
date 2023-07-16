@@ -1,0 +1,21 @@
+id: 'afl'
+title: 'Academic Free License v3.0'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/AFL-3.0'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'patent-use-yes'
+    - 'private-use'
+  condition:
+    - 'license-and-copyright-notice'
+    - 'state-changes'
+  limitation:
+    - 'liability'
+    - 'trademark-use'
+    - 'warranty'

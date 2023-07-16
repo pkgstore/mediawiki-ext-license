@@ -1,0 +1,19 @@
+id: 'mspl'
+title: 'Microsoft Public License'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/MS-PL'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'patent-use-yes'
+    - 'private-use'
+  condition:
+    - 'license-and-copyright-notice'
+  limitation:
+    - 'trademark-use'
+    - 'warranty'

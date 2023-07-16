@@ -1,0 +1,19 @@
+id: 'cc0'
+title: 'Creative Commons Zero v1.0 Universal'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: ''
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition: []
+  limitation:
+    - 'liability'
+    - 'patent-use-no'
+    - 'trademark-use'
+    - 'warranty'

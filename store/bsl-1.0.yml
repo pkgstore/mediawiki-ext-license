@@ -1,0 +1,18 @@
+id: 'bsl-10'
+title: 'Boost Software License 1.0'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/BSL-1.0'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition:
+    - 'license-and-copyright-notice'
+  limitation:
+    - 'liability'
+    - 'warranty'

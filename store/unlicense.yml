@@ -1,0 +1,17 @@
+id: 'unlicense'
+title: 'The Unlicense'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: ''
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition: []
+  limitation:
+    - 'liability'
+    - 'warranty'

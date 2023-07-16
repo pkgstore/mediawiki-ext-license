@@ -1,0 +1,18 @@
+id: 'mit'
+title: 'MIT License'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/MIT'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition:
+    - 'license-and-copyright-notice'
+  limitation:
+    - 'liability'
+    - 'warranty'

@@ -1,0 +1,22 @@
+id: 'gpl30'
+title: 'GNU General Public License v3.0'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/GPL-3.0'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'patent-use-yes'
+    - 'private-use'
+  condition:
+    - 'disclose-source'
+    - 'license-and-copyright-notice'
+    - 'same-license'
+    - 'state-changes'
+  limitation:
+    - 'liability'
+    - 'warranty'

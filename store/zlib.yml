@@ -1,0 +1,19 @@
+id: 'zlib'
+title: 'zlib License'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/Zlib'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition:
+    - 'license-and-copyright-notice'
+    - 'state-changes'
+  limitation:
+    - 'liability'
+    - 'warranty'

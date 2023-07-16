@@ -1,0 +1,55 @@
+.mw-license {
+  .mw-license {
+    &-permissions,
+    &-conditions,
+    &-limitations {
+      border: 1px solid;
+      padding: 0;
+      margin-top: 1em;
+
+      &-title {
+        background-color: #f5f5f5;
+        border-bottom: 1px solid hsl(0, 0%, 86%);
+        padding: .5em 1em;
+      }
+
+      &-list {
+        padding: 1em;
+      }
+    }
+
+    &-permissions {
+      border-color: #d6e9c6;
+
+      &-title {
+        color: #3c763d;
+        border-color: #d6e9c6;
+        background-color: #dff0d8;
+      }
+    }
+
+    &-conditions {
+      border-color: #bce8f1;
+
+      &-title {
+        color: #31708f;
+        border-color: #bce8f1;
+        background-color: #d9edf7;
+      }
+    }
+
+    &-limitations {
+      border-color: #ebccd1;
+
+      &-title {
+        color: #a94442;
+        border-color: #ebccd1;
+        background-color: #f2dede;
+      }
+    }
+
+    &-sub {
+      font-size: smaller;
+    }
+  }
+}

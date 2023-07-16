@@ -1,0 +1,21 @@
+id: 'lgpl21'
+title: 'GNU Lesser General Public License v2.1'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/LGPL-2.1'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition:
+    - 'disclose-source'
+    - 'license-and-copyright-notice'
+    - 'same-license-library'
+    - 'state-changes'
+  limitation:
+    - 'liability'
+    - 'warranty'

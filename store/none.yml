@@ -1,0 +1,11 @@
+id: 'none'
+title: 'No license'
+icon: 'far fa-question-circle'
+category: ''
+content: 'none-content'
+status: ''
+url: ''
+rule:
+  permission: []
+  condition: []
+  limitation: []

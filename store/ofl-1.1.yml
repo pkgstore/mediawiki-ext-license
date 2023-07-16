@@ -1,0 +1,19 @@
+id: 'ofl11'
+title: 'SIL Open Font License 1.1'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/OFL-1.1'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition:
+    - 'license-and-copyright-notice'
+    - 'same-license'
+  limitation:
+    - 'liability'
+    - 'warranty'

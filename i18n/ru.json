@@ -1,0 +1,33 @@
+{
+  "@metadata": {
+    "authors": [
+      "iHub TO"
+    ]
+  },
+  "mw-license-desc": "Интеграция текста лицензии в статью.",
+  "mw-license-error-category": "META:ERROR.EXT.License",
+  "mw-license-description": "Информация распространяется под лицензией",
+  "mw-license-meta": "",
+  "mw-license-rules-unknown": "Неизвестно",
+  "mw-license-permissions": "Разрешения",
+  "mw-license-conditions": "Условия",
+  "mw-license-limitations": "Ограничения",
+  "mw-license-commercial-use": "This software and derivatives may be used for commercial purposes.",
+  "mw-license-distribution": "This software may be distributed.",
+  "mw-license-modification": "This software may be modified.",
+  "mw-license-patent-use-yes": "This license provides an express grant of patent rights from contributors.",
+  "mw-license-patent-use-no": "This license explicitly states that it does NOT grant any rights in the patents of contributors.",
+  "mw-license-private-use": "This software may be used and modified in private.",
+  "mw-license-disclose-source": "Source code must be made available when the software is distributed.",
+  "mw-license-license-and-copyright-notice": "A copy of the license and copyright notice must be included with the software.",
+  "mw-license-network-use-is-distribution": "Users who interact with the software via network are given the right to receive a copy of the source code.",
+  "mw-license-same-license": "Modifications must be released under the same license when distributing the software. In some cases a similar or related license may be used.",
+  "mw-license-same-license-file": "Modifications of existing files must be released under the same license when distributing the software. In some cases a similar or related license may be used.",
+  "mw-license-same-license-library": "Modifications must be released under the same license when distributing the software. In some cases a similar or related license may be used, or this condition may not apply to works that use the software as a library.",
+  "mw-license-state-changes": "Changes made to the code must be documented.",
+  "mw-license-liability": "This license includes a limitation of liability.",
+  "mw-license-trademark-use": "This license explicitly states that it does NOT grant trademark rights, even though licenses without such a statement probably do not grant any implicit trademark rights.",
+  "mw-license-warranty": "The license explicitly states that it does NOT provide any warranty.",
+  "mw-license-custom-content": "Это произведение использует собственную лицензию.",
+  "mw-license-none-content": "Я считаю, что это произведение опубликовано под свободной лицензией, либо юридически находится в общественном достоянии. Я понимаю, что если я своевременно не укажу необходимую информацию о лицензировании, файл может быть удалён."
+}

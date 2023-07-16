@@ -1,0 +1,21 @@
+id: 'msrl'
+title: 'Microsoft Reciprocal License'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/MS-RL'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'patent-use-yes'
+    - 'private-use'
+  condition:
+    - 'disclose-source'
+    - 'license-and-copyright-notice'
+    - 'same-license-file'
+  limitation:
+    - 'trademark-use'
+    - 'warranty'

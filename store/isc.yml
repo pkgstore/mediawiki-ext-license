@@ -1,0 +1,18 @@
+id: 'isc'
+title: 'ISC License'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/ISC'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition:
+    - 'license-and-copyright-notice'
+  limitation:
+    - 'liability'
+    - 'warranty'

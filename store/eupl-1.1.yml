@@ -1,0 +1,24 @@
+id: 'eupl'
+title: 'European Union Public License 1.1'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/EUPL-1.1'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'patent-use-yes'
+    - 'private-use'
+  condition:
+    - 'disclose-source'
+    - 'license-and-copyright-notice'
+    - 'network-use-is-distribution'
+    - 'same-license'
+    - 'state-changes'
+  limitation:
+    - 'liability'
+    - 'trademark-use'
+    - 'warranty'

@@ -1,0 +1,20 @@
+id: 'lppl13с'
+title: 'LaTeX Project Public License v1.3c'
+icon: 'fas fa-shield-alt'
+category: ''
+content: ''
+status: ''
+url: 'https://opensource.org/licenses/LPPL-1.3c'
+rule:
+  permission:
+    - 'commercial-use'
+    - 'distribution'
+    - 'modification'
+    - 'private-use'
+  condition:
+    - 'disclose-source'
+    - 'license-and-copyright-notice'
+    - 'state-changes'
+  limitation:
+    - 'liability'
+    - 'warranty'
